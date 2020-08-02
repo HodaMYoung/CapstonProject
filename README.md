@@ -1,2 +1,2 @@
 # New York vs. Toronto
-IBM Course Capstone 
+Comparing neighborhoods in New York and Toronto in terms of food diversity and entertainmemts.
